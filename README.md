@@ -1,0 +1,2 @@
+# Parking-Management-System
+As in this growing globe, means of transportation keeps on increasing and to accommodate them needs a place. So, by keeping this idea in mind we made a program to keep a log of vehicles (for a particular day) parked in a Parking. In this program there will be various options that may be used by user for operating different tasks such as 1.Showing the present record 2.Making an entry for a vehicle 3.Deleting a record 4.And much more... That’s it, you can check the source code and use it.
